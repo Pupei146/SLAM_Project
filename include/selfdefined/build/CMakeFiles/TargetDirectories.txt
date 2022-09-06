@@ -1,0 +1,5 @@
+/home/pupei/SLAMBOOK/include/selfdefined/build/CMakeFiles/rebuild_cache.dir
+/home/pupei/SLAMBOOK/include/selfdefined/build/CMakeFiles/edit_cache.dir
+/home/pupei/SLAMBOOK/include/selfdefined/build/CMakeFiles/test.dir
+/home/pupei/SLAMBOOK/include/selfdefined/build/CMakeFiles/slam.dir
+/home/pupei/SLAMBOOK/include/selfdefined/build/CMakeFiles/SLAM.dir

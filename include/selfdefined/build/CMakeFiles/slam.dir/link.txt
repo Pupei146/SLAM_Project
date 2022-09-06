@@ -1,0 +1,1 @@
+/usr/bin/c++  -std=c++14 -std=c++14  -rdynamic CMakeFiles/slam.dir/run_kitti_stereo.cpp.o  -o slam 
